@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Lahore%2C%20Pakistan-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-<p align="center">— — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+---
 
 ### About
 
@@ -139,16 +139,23 @@ Softaims                   Full Stack Developer Intern   Jul 2023 — Apr 2024
 
 <br/>
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-muftii&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-muftii&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ibrahim-muftii&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" width="400"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-muftii&layout=compact&theme=tokyonight&hide_border=true&card_width=320" width="320"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-muftii&theme=tokyonight&hide_border=true" width="450"/></td>
+</tr>
+</table>
+
+<sub align="center">Live stats pulled from GitHub — visible once this file is the profile README on <a href="https://github.com/ibrahim-muftii">github.com/ibrahim-muftii</a></sub>
 
 <br/>
 
-<p align="center">— — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+---
 
 <p align="center">
   Open to full-time roles, freelance work, and interesting problems.
