@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ibrahimmufti36@gmail.com"><img src="https://img.shields.io/badge/-Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ibrahim-mufti-243218284"><img src="https://img.shields.io/badge/-LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/muhammad-ibrahim-mufti-243218284"><img src="https://img.shields.io/badge/-LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ibrahim-muftii"><img src="https://img.shields.io/badge/-GitHub-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Lahore%2C%20Pakistan-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -47,7 +47,7 @@ Full stack developer with 3+ years shipping production apps across SaaS, e-comme
 <tr>
 <td width="50%">
 
-**🧠 [Scribia](https://scribia.live)**
+**🧠 [Scribia](https://scribia.co)**
 AI video intelligence SaaS — summarization, transcript RAG chat, cross-language code conversion, gesture-based 2FA.
 <sub>Next.js · Flask · MongoDB · JWT · AES-256</sub>
 
