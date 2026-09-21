@@ -63,13 +63,6 @@ AI product sourcing across Amazon, Walmart & eBay with bulk ASIN/UPC conversion.
 <tr>
 <td width="50%">
 
-**🏭 KNG A/S**
-Denmark-based wholesale e-commerce ecosystem — storefront, supplier backend, automated price sync.
-<sub>PostgreSQL · Express · React (PERN)</sub>
-
-</td>
-<td width="50%">
-
 **📦 Transfy**
 Multi-tenant warehouse fulfillment system with barcode scanning and real-time order tracking.
 <sub>React · Node.js · MS Business Central API</sub>
@@ -77,13 +70,7 @@ Multi-tenant warehouse fulfillment system with barcode scanning and real-time or
 </td>
 </tr>
 <tr>
-<td width="50%">
 
-**🎓 Resecurity Academy**
-Multi-tenant cybersecurity LMS with hierarchical roles: Admin → University → Teacher → Student.
-<sub>Next.js · PostgreSQL · Passport.js</sub>
-
-</td>
 <td width="50%">
 
 **📧 [ColdCraft](https://coldcraft-gold.vercel.app/landing)**
