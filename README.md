@@ -159,15 +159,9 @@ Softaims                   Full Stack Developer Intern   Jul 2023 — Apr 2024
 
 ### 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ibrahim-muftii&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=86400" width="400"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-muftii&layout=compact&theme=tokyonight&hide_border=true&card_width=320&cache_seconds=86400" width="320"/></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=ibrahim-muftii&theme=tokyonight&hide_border=true" width="450"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ibrahim-muftii&theme=tokyonight&hide_border=true" width="450"/>
+</p>
 
 <p align="center"><sub>Live stats pulled from GitHub — visible once this file is the profile README on <a href="https://github.com/ibrahim-muftii">github.com/ibrahim-muftii</a></sub></p>
 
