@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Muhammad%20Ibrahim%20Mufti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%E2%80%94%20SaaS%2C%20AI%20%26%20Multi-Tenant%20Systems&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Muhammad%20Ibrahim%20Mufti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%C2%B7%20SaaS%2C%20AI%20and%20Multi-Tenant%20Systems&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/ibrahim-muftii">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=4%2B+years+%C2%B7+15%2B+projects+shipped+%C2%B7+50K%2B+monthly+users;Next.js+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Postgres+%C2%B7+Neo4j;Building+AI-powered+SaaS+%26+institutional+memory+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=4%2B+years+%C2%B7+15%2B+projects+shipped+%C2%B7+50K%2B+monthly+users;Next.js+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Postgres+%C2%B7+Neo4j;Building+AI-powered+SaaS+and+institutional+memory+tools" alt="Typing SVG" />
 </a>
 
 <p>
@@ -161,11 +161,11 @@ Softaims                   Full Stack Developer Intern   Jul 2023 — Apr 2024
 
 <table align="center">
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ibrahim-muftii&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" width="400"/></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-muftii&layout=compact&theme=tokyonight&hide_border=true&card_width=320" width="320"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ibrahim-muftii&show_icons=true&theme=tokyonight&hide_border=true&card_width=400&cache_seconds=86400" width="400"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-muftii&layout=compact&theme=tokyonight&hide_border=true&card_width=320&cache_seconds=86400" width="320"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-muftii&theme=tokyonight&hide_border=true" width="450"/></td>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=ibrahim-muftii&theme=tokyonight&hide_border=true" width="450"/></td>
 </tr>
 </table>
 
